@@ -1,7 +1,7 @@
 -------
 ## ```Deploy```
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ALFI885/ALFI.git
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ALFI885/ALFI/)
 
 ## `Run`
 
@@ -26,4 +26,5 @@ Terus scan...
 ## ```Coffee```
 
 - [`SAWERIA`](https://saweria.co/zeeoneofc)
+
 
