@@ -27,4 +27,3 @@ Terus scan...
 
 - [`SAWERIA`](https://saweria.co/zeeoneofc)
 
-
